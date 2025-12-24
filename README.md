@@ -53,4 +53,4 @@ I specialize in building robust data pipelines and AI-driven processing systems.
 
 ### 📫 Contact Me
 - **Email:** asierherranzv@gmail.com
-- **LinkedIn:** [linkedin.com/in/asierhv](https://www.linkedin.com/in/asier-herranz)
+- **LinkedIn:** [linkedin.com/in/asier-herranz](https://www.linkedin.com/in/asier-herranz)
