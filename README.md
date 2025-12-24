@@ -45,10 +45,10 @@ I specialize in building robust data pipelines and AI-driven processing systems.
 ---
 
 ### 📊 Engineering Stats
-
-![Asier's GitHub stats](https://github-readme-stats.vercel.app/api?username=asierhv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asierhv&layout=compact&theme=tokyonight&langs_count=6)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asierhv&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=asierhv&theme=tokyonight" height="150" />
+</p>
 
 ---
 
