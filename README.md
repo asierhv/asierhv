@@ -47,11 +47,10 @@ I specialize in building robust data pipelines and AI-driven processing systems.
 ### 📊 Engineering Stats
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asierhv&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=asierhv&theme=tokyonight" height="150" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 - **Email:** asierherranzv@gmail.com
-- **LinkedIn:** [linkedin.com/in/asierhv](https://www.linkedin.com/in/asierhv)
+- **LinkedIn:** [linkedin.com/in/asierhv](https://www.linkedin.com/in/asier-herranz)
