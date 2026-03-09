@@ -1,5 +1,7 @@
 # Hi, I'm Asier 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asierhv8&label=Profile%20views&color=0e75b6&style=flat" alt="asierhv" /> </p>
+
 ### 🛰️ Telecommunications & AI Engineer | Data & Backend Developer
 I specialize in building robust data pipelines and AI-driven processing systems. My background in Telecommunications Engineering allows me to approach software through the lens of **Signal Processing**, **Systems Optimization**, and **Scalable Architectures**.
 
