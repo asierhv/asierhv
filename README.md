@@ -34,11 +34,6 @@ I specialize in building robust data pipelines and AI-driven processing systems.
 - **Core:** Modular scripts for text normalization and Word Error Rate (WER) evaluation for Spanish and Basque speech corpora.
 - **Tech:** JSONL processing, ASR Evaluation, Linguistic Data Management.
 
-#### 🕵️ [Multi-Source Scraper](https://github.com/asierhv/scraping)
-*Automated data ingestion for iVoox podcasts and Parliament sessions.*
-- **Core:** Tools for tracking and downloading audio/metadata from RSS feeds and XML parliament records.
-- **Tech:** Python, XML/RSS Parsing, Automated tracking systems.
-
 #### 🀄 [Chinese Flashcards Creator](https://github.com/asierhv/chinese_flashcards)
 *Automation tool for language learning materials.*
 - **Core:** Generates printable, multi-language flashcards with customizable Pinyin and Hanzi parameters.
